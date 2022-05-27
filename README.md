@@ -1,7 +1,9 @@
 # Analyzing Crops Water Consumption over its Seasonal Cylce
 
 ### Purpose
-Simulating data to create a model to analyze water usage of plants/crops during its seasonal cycle:
+Create a model that determines statistical significance of every new data point added
+
+Do this through these steps:
 
 1) Simulate Data to replicate a typical plant water-use curve
 
@@ -11,4 +13,6 @@ Simulating data to create a model to analyze water usage of plants/crops during 
 
 3) Create a model using the simulated data
 
-4) Use model on real data and make predictions using the data output
+4) Use model on real data
+
+
