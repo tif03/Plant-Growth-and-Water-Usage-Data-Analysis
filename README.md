@@ -1,4 +1,5 @@
 # Analyzing Crops Water Consumption over its Seasonal Cylce
+reference: https://www.ksre.k-state.edu/irrigate/reports/L904.pdf
 
 ### Purpose
 Create a model that determines statistical significance of every new data point added
