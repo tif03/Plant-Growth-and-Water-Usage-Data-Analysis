@@ -6,7 +6,7 @@ San Jose, CA
 reference: https://www.ksre.k-state.edu/irrigate/reports/L904.pdf
 
 ### Purpose
-Create a model that determines statistical significance of every new data point added
+Create a model that determines statistical significance of every new data point added, by predicting plant's growth stage at that point based on its water usage
 
 Do this through these steps:
 
