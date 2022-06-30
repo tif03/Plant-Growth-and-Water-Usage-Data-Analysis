@@ -14,9 +14,9 @@ Do this through these steps:
 
 <img width="494" alt="Graph" src="https://user-images.githubusercontent.com/61673602/170113996-665bbff0-41d4-4135-8115-ef5849dfb06a.png">
 
-2) Clean the data -- water usage
+2) Write an algorithm based on the simulated data to perform linear regression on the data, then using the slope of the lines created, predicts what growth stage the plant is in
 
-3) Create a model using the simulated data
+3) Add noise to the simulated data so it models real life data (tweak algorithm accordingly)
 
 4) Use model on real data
 
